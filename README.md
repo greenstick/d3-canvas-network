@@ -1,7 +1,3 @@
-<style>
-img[alt=Network Visualization Example] { width: 400px; }
-</style>
-
 # Network Visualization for HTML Canvas
 
 ![Network Visualization Example](https://github.com/greenstick/d3-canvas-network/blob/master/img/network-example.png)
@@ -86,9 +82,8 @@ var network = new Network({
     autoInit        : true,
     randomGen       : true,
     graph.randomK   : 160
-}
 });
 ```
 
 ### Contributing
-Pull resquests and issues welcome!
+Issues and pull requests welcome
