@@ -87,4 +87,4 @@ var network = new Network({
 ```
 
 ### Contributing
-Pull requests and issues welcome!
+Issues and pull requests welcome
