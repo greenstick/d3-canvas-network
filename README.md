@@ -82,7 +82,6 @@ var network = new Network({
 	autoInit 		: true,
 	randomGen 		: true,
 	graph.randomK 	: 160
-}
 });
 ```
 
