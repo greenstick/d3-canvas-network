@@ -6,7 +6,7 @@
 A quick, simple JavaScript prototype for visualizing network data using [D3.js](http://d3js.org) and the HTML Canvas API. 
 
 Features include:
-* Node sizing and by degree
+* Node sizing by degree
 * Node coloring by degree
 * Edge coloring by weight
 * Fast rendering with GPU via Canvas API (able to handle 1000+ nodes and 5000+ edges)
