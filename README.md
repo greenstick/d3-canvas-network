@@ -13,7 +13,7 @@ Features include:
 
 
 ### Examples
-No arguments are required; to see a randomly generated netowrk call the network and pass an empty arguments object:
+No arguments are required; to see a randomly generated network call the network prototype, passing an empty arguments object:
 ```
 var network = new Network({});
 ```
