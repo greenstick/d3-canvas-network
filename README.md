@@ -19,7 +19,7 @@ No arguments are required; to see a randomly generated network call the network 
 var network = new Network({});
 ```
 
-To see an example, clone the repository and open index.html in your browser.
+To see an example of such a network, check out the [example page](https://greenstick.github.io/d3-canvas-network/).
 
 More practically, customize the layout of your network. For example:
 
