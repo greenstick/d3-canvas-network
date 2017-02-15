@@ -14,6 +14,7 @@ Features include:
 
 ### Examples
 No arguments are required; to see a randomly generated network call the network prototype, passing an empty arguments object:
+
 ```
 var network = new Network({});
 ```
@@ -21,6 +22,7 @@ var network = new Network({});
 To see an example, clone the repository and open index.html in your browser.
 
 More practically, customize the layout of your network. For example:
+
 ```
 var network = new Network({
     /*
